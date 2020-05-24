@@ -1,0 +1,11 @@
+{
+  "name": "mydatemodule",
+  "version": "1.0.0",
+  "description": "This returns current data",
+  "main": "currentDate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gayathri@gmail.com",
+  "license": "ISC"
+}
